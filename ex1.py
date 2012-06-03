@@ -6,4 +6,4 @@ print "This is fun."
 print 'Yay! Printing'
 print "I'd much rather you 'not'."
 print 'I "said" do not touch this.'
-print "这是我的程序。"
+print unicode("这是我的程序。",  "utf-8");
