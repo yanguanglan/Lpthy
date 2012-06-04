@@ -1,4 +1,4 @@
-# -- coding: utf-8--
+# -- coding: utf-8 --
 
 # A comment, this is so you can read your program later.
 # Anything after the # is ignored by python.
