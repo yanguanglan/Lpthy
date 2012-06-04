@@ -1,22 +1,27 @@
-Á·Ï° 0 £º°²×°
+ç»ƒä¹  0 ï¼šå®‰è£…
 =====
 
 Max OSX
 -------
-1 ±à¼­Æ÷£ºTextWrangler http://www.barebones.com/products/textwrangler/
-2 Python°æ±¾£ºpython2
+1 ç¼–è¾‘å™¨ï¼šTextWrangler http://www.barebones.com/products/textwrangler/
+
+2 Pythonç‰ˆæœ¬ï¼špython2
 
 Windows
 -------
 
-1 ±à¼­Æ÷£ºNotepad++ http://notepad-plus-plus.org
-2 Python°æ±¾£ºpython2
-3 ÉèÖÃÔËĞĞ»·¾³£ºÔÚ Notepad++ ÖĞÔËĞĞ PowerShell,
-  È»ºóÊäÈë [Environment]::SetEnvironmentVariable("Path", "$env:Path;C:\Python27", "User")
+1 ç¼–è¾‘å™¨ï¼šNotepad++ http://notepad-plus-plus.org
+
+2 Pythonç‰ˆæœ¬ï¼špython2
+
+3 è®¾ç½®è¿è¡Œç¯å¢ƒï¼šåœ¨ Notepad++ ä¸­è¿è¡Œ PowerShell,
+  ç„¶åè¾“å…¥ [Environment]::SetEnvironmentVariable("Path", "$env:Path;C:\Python27", "User")
 
 Linux
 -----
 
-1 ±à¼­Æ÷£ºgedit
-2 Python°æ±¾£ºpython2
-3 ÉèÖÃgedit¡¡tab¿í¶È Îª 4,²¢ÇÒÓÃ¿Õ¸ñÌæ»»tab
+1 ç¼–è¾‘å™¨ï¼šgedit
+
+2 Pythonç‰ˆæœ¬ï¼špython2
+
+3 è®¾ç½®geditã€€tabå®½åº¦ ä¸º 4,å¹¶ä¸”ç”¨ç©ºæ ¼æ›¿æ¢tab
