@@ -15,7 +15,8 @@ Windows
 2 Python版本：python2
 
 3 设置运行环境：在 Notepad++ 中运行 PowerShell,
-  然后输入 
+  然后输
+
     [Environment]::SetEnvironmentVariable("Path", "$env:Path;C:\Python27", "User")
 
 Linux
